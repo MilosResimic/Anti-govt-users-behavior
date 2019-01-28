@@ -8,9 +8,9 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "I scraped tweets of 31 users belonging to the anti-govt community in the network based on #1od5miliona hashtag from the protest on January 28. There are 1110 nodes and 2898 edges. Nodes are sized based on weighted indegree and colored based on community that they belong to.",
+    "more": "I scraped tweets of 31 users belonging to the anti-govt community, as shown in the previous interactive network based on #1od5miliona hashtag from the protest on January 26 (https://milosresimic.github.io/Serbian-protests-Jan-26/#). There are 1110 nodes and 2898 edges. Nodes are sized based on weighted indegree and colored based on community that they belong to.",
     "intro": " ",
-    "title": "The network of pro-govt users based on the larger #1od5miliona Twitterverse network"
+    "title": "The network of pro-govt users based on the larger #1od5miliona Twitterverse network from Jan 26 protest"
   },
   "legend": {
     "edgeLabel": " retweet",
@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curve",
+      "defaultEdgeType": "straight",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
@@ -43,7 +43,7 @@
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,
